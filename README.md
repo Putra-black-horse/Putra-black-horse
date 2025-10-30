@@ -26,7 +26,8 @@
 ###
 
 <p align="left">I'm  from  Surakarta<br><br>- 🔭 My Name Putra Sawung J</p>
-<a href="https://putra-black-horse.github.io/">Portfolio</a>
+<p align="left">I'm  from  Surakarta<br><br>- My Porto</p>
+<a href="https://putra-black-horse.github.io/">putra-black-horse.github.io</a>
 
 ###
 
